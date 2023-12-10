@@ -5,7 +5,7 @@
 The OWID dataset is downloadable from:</p>
 https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations
 
-<img src="https://github.com/yugo-Ishihara/covidbeta/blob/main/covidbeta_usa3.png">
+<img src="https://github.com/yugo-Ishihara/vacbeta/blob/main/vacbeta_usa4.png">
 
 <h1>
   How to run vacbeta
